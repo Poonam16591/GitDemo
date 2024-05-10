@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-05-09T19:25:22 IST" name="Default suite" finished-at="2024-05-09T19:25:22 IST" duration-ms="84">
+  <suite started-at="2024-05-10T13:03:56 IST" name="Default suite" finished-at="2024-05-10T13:03:57 IST" duration-ms="148">
     <groups>
     </groups>
-    <test started-at="2024-05-09T19:25:22 IST" name="Default test" finished-at="2024-05-09T19:25:22 IST" duration-ms="84">
-      <class name="test.Day2">
-        <test-method is-config="true" signature="Demo3()[pri:0, instance:test.Day2@60bd273d]" started-at="2024-05-09T19:25:22 IST" name="Demo3" finished-at="2024-05-09T19:25:22 IST" duration-ms="14" status="PASS">
+    <test started-at="2024-05-10T13:03:56 IST" name="Default test" finished-at="2024-05-10T13:03:57 IST" duration-ms="148">
+      <class name="test.Day1">
+        <test-method signature="Demo()[pri:0, instance:test.Day1@1de5f259]" started-at="2024-05-10T13:03:56 IST" name="Demo" finished-at="2024-05-10T13:03:57 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Demo3 -->
-        <test-method signature="Demo4()[pri:0, instance:test.Day2@60bd273d]" started-at="2024-05-09T19:25:22 IST" name="Demo4" finished-at="2024-05-09T19:25:22 IST" duration-ms="8" status="PASS">
+        </test-method> <!-- Demo -->
+        <test-method signature="Demo1()[pri:0, instance:test.Day1@1de5f259]" started-at="2024-05-10T13:03:57 IST" name="Demo1" finished-at="2024-05-10T13:03:57 IST" duration-ms="24" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Demo4 -->
-      </class> <!-- test.Day2 -->
+        </test-method> <!-- Demo1 -->
+      </class> <!-- test.Day1 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

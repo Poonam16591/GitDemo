@@ -14,6 +14,10 @@ public class Day1 {
 	{
 		System.out.println("I am here");
 	}
-	
+	@Test
+	public void Demo2()
+	{
+		System.out.println("I am here");
+	}
 
 }
